@@ -25,7 +25,7 @@
 ###  :man_technologist: About Me :
 - ✨ I am a final-year student at FPT Polytechnic College
 - 🌱 Currently interested in PHP Developer 
-- 📫 Contact me: <a href="mailto:anhtukid2007@gmail.com">Email Doan Anh Tu</a>
+- 📫 Contact me: <a href="">Email: anhtukid2007@gmail.com</a>
 
 ---
 
